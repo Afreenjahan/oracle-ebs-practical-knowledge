@@ -7,6 +7,6 @@ This repository contains practical notes, templates, and examples based on my ex
 
 The template is shared as a learning resource for Oracle EBS developers and demonstrates one approach to documenting deployment details such as object sequencing, dependencies, validation steps, and rollback considerations before migrating changes across environments.
 
-In the excel file, there's a Deployment (Individual) document meant for individual developer component migration.
+In the excel file, there are both Consolidated and Individual Deployment worksheets shared. Consolidated worksheet is meant for multiple components/objects migration mostly meant for release activities. Whereas, Individual worksheet is meant for single developer component migration meant for migrating change into lower environments. Either one could be chosen alongside the Objects worksheet which contains list of all the individual objects like package/ procedure/ table, etc.
 
 I hope it serves as a useful reference for developers interested in Oracle EBS release planning and deployment activities.
