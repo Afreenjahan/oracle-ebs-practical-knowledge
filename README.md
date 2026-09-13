@@ -1,11 +1,11 @@
-# oracle-ebs-release-toolkit
+# oracle-ebs-practical-knowledge
 
-This repository contains a generalized Oracle E-Business Suite (EBS) release deployment template inspired by real-world release coordination activities.
+This repository contains practical notes, templates, and examples based on my experience working with Oracle E-Business Suite. The goal is to share approaches and lessons that may be useful to other Oracle EBS developers.
+
+
+**[What Working on Oracle ERP Release Deployments Taught Me as a Technical Developer](https://medium.com/@afreenjahan1096/what-working-on-oracle-erp-release-deployments-taught-me-as-a-technical-developer-1f5ad163b6ce)**
 
 The template is shared as a learning resource for Oracle EBS developers and demonstrates one approach to documenting deployment details such as object sequencing, dependencies, validation steps, and rollback considerations before migrating changes across environments.
-
-## Related Article
-**[What Working on Oracle ERP Release Deployments Taught Me as a Technical Developer](https://medium.com/@afreenjahan1096/what-working-on-oracle-erp-release-deployments-taught-me-as-a-technical-developer-1f5ad163b6ce)**
 
 In the excel file, there's a Deployment (Individual) document meant for individual developer component migration.
 
