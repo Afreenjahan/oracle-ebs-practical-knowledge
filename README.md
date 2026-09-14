@@ -1,13 +1,37 @@
-# oracle-ebs-practical-knowledge
+# Oracle EBS Practical Knowledge
 
-This repository contains practical notes, templates, and examples based on my experience working with Oracle E-Business Suite. The goal is to share approaches and lessons that may be useful to other Oracle EBS developers.
+A collection of practical articles, templates, examples, and code related to Oracle E-Business Suite, based on my experience working with Oracle EBS.
+
+The purpose of this repository is to share practical approaches, lessons learned, and generalized examples that may be useful to other Oracle EBS developers.
+
+## Templates & Resources
+
+- [Release Deployment Template](./templates/release-deployment/)
+- [Environment Migration Tracker](./templates/environment-migration/)
+
+## Code Examples
+
+Code examples and generalized Oracle EBS development examples will be added here as they become available.
 
 
-**[What Working on Oracle ERP Release Deployments Taught Me as a Technical Developer](https://medium.com/@afreenjahan1096/what-working-on-oracle-erp-release-deployments-taught-me-as-a-technical-developer-1f5ad163b6ce)**
+## Articles
 
-The template is shared as a learning resource for Oracle EBS developers and demonstrates one approach to documenting deployment details such as object sequencing, dependencies, validation steps, and rollback considerations before migrating changes across environments.
+### What Working on Oracle ERP Release Deployments Taught Me as a Technical Developer
 
-The excel file consists of both Consolidated and Individual Deployment worksheets.
-Consolidated worksheet is meant for multiple components/objects migration mostly meant for release activities. Whereas, Individual worksheet is meant for single developer component migration meant for migrating change into lower environments. Either one could be chosen alongside the Objects worksheet which contains list of all the individual objects like package/ procedure/ table, etc.
+An article about my experience preparing and coordinating Oracle EBS release deployment documentation, including deployment sequencing, dependencies, validation, and handling changes across multiple components.
 
-I hope this serves as a useful reference for developers interested in Oracle EBS release planning and deployment activities.
+[Read the article on Medium](YOUR_MEDIUM_ARTICLE_LINK)
+
+**Related resource:**  
+[Oracle EBS Release Deployment Template](./templates/release-deployment/)
+
+---
+
+### Preparing a New Oracle EBS Environment: What I Learned from Migrating Application Components
+
+An article about preparing a new Oracle EBS environment by identifying required application components, understanding dependencies, migrating components, reproducing configurations, and validating them with the testing team.
+
+[Read the article on Medium](YOUR_MEDIUM_ARTICLE_LINK)
+
+**Related resource:**  
+[Oracle EBS Environment Migration Tracker](./templates/environment-migration/)
