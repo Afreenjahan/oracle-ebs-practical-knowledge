@@ -10,6 +10,6 @@ The tracker can be used to organize application components, dependencies, migrat
 
 ## Tracker
 
-[Download the Oracle EBS Environment Migration Tracker](./oracle-ebs-environment-migration-tracker.xlsx)
+[Download the Oracle EBS Environment Migration Tracker](./Oracle%20EBS%20Environment%20Migration%20Tracker.xlsx)
 
 The tracker is provided as a general reference. The components, migration process, and environment requirements may differ between organizations.
