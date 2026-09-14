@@ -6,7 +6,7 @@ The tracker can be used to organize application components, dependencies, migrat
 
 ## Related Article
 
-[Preparing a New Oracle EBS Environment: What I Learned from Migrating Application Components](YOUR_MEDIUM_ARTICLE_LINK)
+[Preparing a New Oracle EBS Environment: What I Learned from Migrating Application Components](https://medium.com/@afreenjahan1096/preparing-a-new-oracle-ebs-environment-what-i-learned-from-migrating-application-components-d1026ed721b5?postPublishedType=repub)
 
 ## Tracker
 
